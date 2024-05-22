@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-class Start
-{
+﻿class Start {
     public static void Main(string[] args)
     {
         new Program().Run();
